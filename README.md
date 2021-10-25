@@ -1,7 +1,7 @@
 
 <h1>Hi There, I'm Abhishek Angale <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a Web Developer and Competitive Programmer👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that I can succesfully invert a binary tree. Beside's Technical stuff, I play Ukulele 🎸,Counter Strike and Valorant 🎮. My favourite band is Green Day 🎵 .
+I'm a Full Stack Web Developer and a Competitive Programmer👨🏻‍💻 from India. I'm a problem solving enthusiast and a product guy with a constantly growing love for next-gen products. I'm proud to say that I can succesfully invert a binary tree. Beside's Technical stuff, I play Ukulele 🎸,Counter Strike and Valorant 🎮. My favourite band is Green Day 🎵 .
 
 
 ## Skill Set :muscle:
