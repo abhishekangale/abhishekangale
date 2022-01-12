@@ -1,7 +1,6 @@
 
 <h1>Hi There, I'm Abhishek Angale <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-
 ## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
